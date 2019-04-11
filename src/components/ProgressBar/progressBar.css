@@ -1,0 +1,22 @@
+.wrapper {
+    width: 100%;
+}
+
+.progress-bar {
+    margin: 0 auto;
+    width: 70%;
+    background-color: #e0e0e0;
+    padding: 3px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+}
+
+.progress-bar-fill {
+    display: block;
+    height: 8px;
+    background-color: #0de47f;
+    border-radius: 3px;
+
+    transition: width 500ms ease-in-out;
+}

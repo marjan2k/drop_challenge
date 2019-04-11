@@ -1,0 +1,3 @@
+export default {
+  MARK_OFFER_FAVORITE: 'MARK_OFFER_FAVORITE',
+}

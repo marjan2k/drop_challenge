@@ -1,0 +1,4 @@
+export default {
+  ADD_NEW_POINT: 'ADD_NEW_POINT',
+  REDEEM_POINT: 'REDEEM_POINT',
+}
